@@ -22,7 +22,6 @@ I am Hanif Salafi, a Fullstack Developer with 5+ years of experience creating im
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![Swift](https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white)
 
-<br><br>
 ##### Frontend framework that helps me
 
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
