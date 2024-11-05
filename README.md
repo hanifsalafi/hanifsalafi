@@ -68,5 +68,15 @@ I am Hanif Salafi, a Fullstack Developer with 5+ years of experience creating im
 ![Postman](https://img.shields.io/badge/Postman-123?style=for-the-badge&logo=postman&logoColor=%23fff&color=%23FF6C37)
 
 
+<br>
+
+<details>
+  <summary><b>🧑‍💻&nbsp;&nbsp;Github&nbsp;Stats</b></summary>
+  <br/>
 	
+  <img align="center" src="https://github-contribution-stats.vercel.app/api/?username=hanifsalafi" />
+</details>
+
+<br><br>
+
 
